@@ -1,2 +1,2 @@
-# SMART-STREET-LIGHTING-WITH-SOLAR-ENERGY
-This project is based on the idea of generating energy to it's maximum efficiency and reducing the amount of energy consumption to it's minimum.
+# Smart-Street-Lighting-With-Solar-Energy
+This project is based on generating energy to its maximum efficiency and reducing energy consumption to its minimum.
